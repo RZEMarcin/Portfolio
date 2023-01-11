@@ -16,6 +16,8 @@ My name is Marian Koksowski and im the strongest person in the simulation.
 
 * Chrome DevTools - for testing and to improve bug report
 
+* TestLink - We-based open-source test management tool
+
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 
 ## Tech skills
