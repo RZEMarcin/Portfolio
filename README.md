@@ -45,13 +45,13 @@ My name is Marian Koksowski and im the strongest person in the simulation.
 
 remigiuszbednarczyk.pl.pl
 
-## My bug reports
+## My example bug report
 
-p
 
-p
+*[Bug report for morele.net](https://docs.google.com/document/d/1R4nvAigmE3Ox0-oF-sUJ68RN0sow-aVo/edit?usp=sharing&ouid=117712944018414349555&rtpof=true&sd=true)
 
-p
+
+
 
 
 ## My test cases examples
