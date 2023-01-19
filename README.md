@@ -48,7 +48,7 @@ remigiuszbednarczyk.pl.pl
 ## My example bug report
 
 
-*[Bug report for morele.net](https://docs.google.com/document/d/1R4nvAigmE3Ox0-oF-sUJ68RN0sow-aVo/edit?usp=sharing&ouid=117712944018414349555&rtpof=true&sd=true)
+[*Bug report for morele.net](https://docs.google.com/document/d/1R4nvAigmE3Ox0-oF-sUJ68RN0sow-aVo/edit?usp=sharing&ouid=117712944018414349555&rtpof=true&sd=true)
 
 
 
