@@ -54,7 +54,7 @@ remigiuszbednarczyk.pl.pl
 
 
 
-## My test cases example
+## My test case example
 
 * [Test case for morele.net](https://docs.google.com/spreadsheets/d/1ePlWL2T5S6vnK6o6kR-0Va8CUUSFONvK/edit?usp=sharing&ouid=117712944018414349555&rtpof=true&sd=true)
 
