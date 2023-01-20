@@ -64,7 +64,8 @@ g
 
 ## Books
 
-  e-book "ABC Testowania Oprogramowania" Waldemar Szafraniec<br>
-  e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola
+ "ABC Testowania Oprogramowania" Waldemar Szafraniec<br>
+ "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola
+ "Testowanie Oprogramowania" - Piotr Wicherski 
 
 
