@@ -2,7 +2,7 @@
 
 
 ## About me
-My name is Marcin Rzepka and I have recently made the decision to pursue a career as a Software Tester. My objective is to acquire a deep understanding and advanced technical abilities in this specific field. Through this platform, I aim to share my personal research findings and the knowledge I have gained through my studies. I am eager to further expand my career portfolio and am open to any opportunities that come my way.
+My name is Marcin Rzepka and I have recently made the decision to pursue a career as a Software Tester. My objective is to acquire a deep understanding and advanced technical abilities in this specific field. Through this platform, I aim to share my personal research findings and the knowledge I have gained through my studies. I am eager to further expand my career portfolio and I am open to any opportunities that come my way.
 
 ## Tools
 
