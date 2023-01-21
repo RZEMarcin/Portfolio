@@ -2,7 +2,7 @@
 
 
 ## About me
-My name is Marcin Rzepka. My goal is to develop knowledge and technical skills in the field of testing. On this site I would like to share all my gained experience from personal studies and researches. I am looking for an opportunity to expand my career portfolio.
+My name is Marcin Rzepka.I have recently decided to become a Software Tester. My goal is to develop knowledge and technical skills in this particular field. On this site I would like to share all my gained experience from personal studies and researches. I am looking for an opportunity to expand my career portfolio.
 
 ## Tools
 
