@@ -33,8 +33,6 @@ My name is Marcin Rzepka and I have recently made the decision to pursue a caree
 
 * Creating test cases
 
-* SCRUM
-
 * Software testing
 
 * Reporting bugs
