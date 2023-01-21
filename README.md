@@ -43,7 +43,7 @@ My name is Marian Koksowski and im the strongest person in the simulation.
 
 ## Blogs I read
 
-remigiuszbednarczyk.pl.pl
+[remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
 
 ## My bug report example
 
