@@ -45,7 +45,7 @@ My name is Marian Koksowski and im the strongest person in the simulation.
 
 * [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)<br>
 * [testerzy.pl](testerzy.pl)<br>
-* [wyszkolewas.com.pl](www.wyszkolewas.com.pl/blog/)
+* [wyszkolewas.com](www.wyszkolewas.com.pl/blog/)
 
 ## My bug report example
 
