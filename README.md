@@ -41,9 +41,9 @@ My name is Marcin Rzepka and I have recently made the decision to pursue a caree
 
 ## Blogs I read
 
-* [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)<br>
-* [testerzy.pl](testerzy.pl)<br>
-* [wyszkolewas.com](www.wyszkolewas.com.pl/blog/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)<br>
+* [testerzy.pl](https://testerzy.pl)<br>
+* [wyszkolewas.com](https://www.wyszkolewas.com.pl/blog/)
 
 ## My bug report example
 
