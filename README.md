@@ -2,7 +2,7 @@
 
 
 ## About me
-My name is Marian Koksowski and im the strongest person in the simulation.
+My name is Marcin Rzepka. My goal is to develop knowledge and technical skills in the field of testing. On this site I would like to share all my gained experience from personal studies and researches. I am looking for an opportunity to expand my career portfolio.
 
 ## Tools
 
