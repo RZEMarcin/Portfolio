@@ -64,7 +64,7 @@ My name is Marcin Rzepka. My goal is to develop knowledge and technical skills i
 
 ## Books
 
- "ABC Testowania Oprogramowania" Waldemar Szafraniec<br>
+ "ABC Testowania Oprogramowania" Waldemar Szafraniec, Dorota Gabor<br>
  "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola<br>
  "Testowanie Oprogramowania" - Piotr Wicherski 
 
