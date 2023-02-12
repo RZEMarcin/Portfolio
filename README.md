@@ -15,11 +15,13 @@ My name is Marcin Rzepka and I have recently made the decision to pursue a caree
 * Javascript - basics of Javascript language
 
 * Chrome DevTools - for testing and to improve bug report
+* Visual Studio Code - code editor redefined and optimized for building and debugging modern web and cloud applications
+
 
 * TestLink - We-based open-source test management tool
 
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
-* HTML/CSS
+* HTML/CSS - basics of HTML and CSS
 
 ## Tech skills
 
