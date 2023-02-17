@@ -40,6 +40,7 @@ My name is Marcin Rzepka and I have recently made the decision to pursue a caree
 * Reporting bugs
 
 * DevTools
+* C#
 
 ## Blogs I read
 
